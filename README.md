@@ -20,7 +20,7 @@ Advantages of using this project
 9. It support ai-agent (beta-version)
 
 <p align="center">
-  <img src="./images/mcp_and_agent.png">
+  <img src="./images/mcp_and_ai_agent.png">
 </p>
 
 List of Docker-Images
